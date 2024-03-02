@@ -1,0 +1,1 @@
+*{height:100vh;animation:x 9s 1e9;background:linear-gradient(gold 50%,red 50%)0/1em 1em}@keyframes x{50%{transform:rotate(90deg)scale(2)}}
